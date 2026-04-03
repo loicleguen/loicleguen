@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 👋 I'm Loïc Le Guen
+I'm currently at holberton school
 
 <!--
 **loicleguen/loicleguen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
