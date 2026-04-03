@@ -1,6 +1,9 @@
 ## Hi there 👋 I'm Loïc Le Guen
 I'm currently at holberton school
 
+🛠️ My Current Stack
+C Python JavaScript HTML5 CSS3 API REST Git Linux Bash VSCode
+
 <!--
 **loicleguen/loicleguen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
