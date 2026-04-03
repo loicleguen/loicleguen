@@ -3,8 +3,8 @@ I'm currently a student at holberton school
 ## 📫 How to Reach Me
 
 - 📧 Email: loic.leguen@hotmail.fr
-- 💼 LinkedIn: [linkedin](https://www.linkedin.com/in/lo%C3%AFc-le-guen-383098231/))  
-- 🧠 GitHub: [github.com/P-Y74](https://github.com/P-Y74)
+- 💼 LinkedIn: [linkedin](https://www.linkedin.com/in/lo%C3%AFc-le-guen-383098231/)
+- 🧠 GitHub: [github](https://github.com/loicleguen)
 
 ---
 ## 🛠️ My Current Stack :
