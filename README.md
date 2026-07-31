@@ -4,6 +4,7 @@ I'm currently a student at holberton school
 
 - 📧 Email: loic.leguen@hotmail.fr
 - 💼 LinkedIn: [linkedin](https://www.linkedin.com/in/lo%C3%AFc-le-guen-383098231/)
+- [Resume](https://github.com/loicleguen/loicleguen/blob/main/CV%20LOIC%20LEGUEN.pdf)
 
 ---
 ## 🛠️ My Current Stack :
